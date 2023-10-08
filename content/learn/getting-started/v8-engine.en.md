@@ -36,7 +36,7 @@ V8 is always evolving, just like the other JavaScript engines around, to speed u
 
 On the web, there is a race for performance that's been going on for years, and we (as users and developers) benefit a lot from this competition because we get faster and more optimized machines year after year.
 
-## Compilation
+## Compilation 
 
 JavaScript is generally considered an interpreted language, but modern JavaScript engines no longer just interpret JavaScript, they compile it.
 
